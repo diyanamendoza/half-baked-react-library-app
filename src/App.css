@@ -1,0 +1,15 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 0px;
+}
+
+nav a {
+    color: white;
+}
+
+nav a.active {
+    font-weight: bolder;
+}
